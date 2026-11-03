@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 from pathlib import Path
 
-
+st.write("App has started successfully!")
 # =====================================
 # 1. PAGE CONFIGURATION
 # =====================================
